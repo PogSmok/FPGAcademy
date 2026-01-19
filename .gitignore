@@ -1,0 +1,8 @@
+db/
+incremental_db/
+output_files/
+.qsys_edit/
+
+*.qws
+*dump.txt
+*.v.bak

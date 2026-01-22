@@ -1,3 +1,4 @@
+# Quartus
 db/
 incremental_db/
 output_files/
@@ -6,3 +7,9 @@ output_files/
 *.qws
 *dump.txt
 *.v.bak
+
+
+# ModelSim
+work/
+
+*.wlf

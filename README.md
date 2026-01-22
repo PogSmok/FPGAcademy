@@ -13,6 +13,7 @@ The repository is organized by course category, laboratory, and laboratory part.
 - `<category_name>`: Course name (e.g. `Digital_Logic`, `Computer_Organization`)
 - `<category_name>/<lab>`: Laboratory directory (e.g. `Lab1`, `Lab2`)
 - `<category_name>/<lab>/<full_name>.pdf`: Original laboratory exercise description (e.g. `Digital_Logic_Lab1.pdf`)
+- `<category_name>/<lab><full_name>_Design_Files.zip`: Any additional files provided by FPGAcademy (e.g. `Digital_Logic_Lab3_Design_Files.zip`)
 - `<category_name>/<lab>/<part_number>`: Individual parts of the laboratory (e.g. `Part1`, `Part2`)
 
 ---
@@ -20,12 +21,13 @@ The repository is organized by course category, laboratory, and laboratory part.
 ## Included Materials
 
 Each laboratory folder contains:
-- The original PDF with exercise instructions
-- Verilog source code for each part of the laboratory
-- Pin assignment file (`.qsf`) used for programming the physical board  
-  *Pin assignments must be modified when programming a different board*
+- The original PDF with exercise instructions, and an archive with the provided design files (if applicable)
+- Solution source code for each part of the laboratory
+- Pin assignment file (`.qsf`) used to program the physical FPGA board  
+  *Pin assignments must be adjusted when targeting a different board*
 
-The PDFs are included for educational reference only. All rights to the original materials belong to **FPGAcademy**.
+The PDFs and accompanying design archives are included for educational reference only.
+All rights to the original materials belong to FPGAcademy.
 
 ---
 

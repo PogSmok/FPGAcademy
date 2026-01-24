@@ -3,6 +3,7 @@ db/
 incremental_db/
 output_files/
 .qsys_edit/
+simulation/
 
 *.qws
 *dump.txt

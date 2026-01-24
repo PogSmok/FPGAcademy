@@ -4,20 +4,6 @@ This repository contains my personal solutions to laboratory exercises from **FP
 
 ---
 
-## Repository Structure
-
-The repository is organized by course category, laboratory, and laboratory part.
-
-### Structure Details
-
-- `<category_name>`: Course name (e.g. `Digital_Logic`, `Computer_Organization`)
-- `<category_name>/<lab>`: Laboratory directory (e.g. `Lab1`, `Lab2`)
-- `<category_name>/<lab>/<full_name>.pdf`: Original laboratory exercise description (e.g. `Digital_Logic_Lab1.pdf`)
-- `<category_name>/<lab><full_name>_Design_Files.zip`: Any additional files provided by FPGAcademy (e.g. `Digital_Logic_Lab3_Design_Files.zip`)
-- `<category_name>/<lab>/<part_number>`: Individual parts of the laboratory (e.g. `Part1`, `Part2`)
-
----
-
 ## Included Materials
 
 Each laboratory folder contains:

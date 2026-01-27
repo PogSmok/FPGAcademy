@@ -9,6 +9,7 @@ simulation/
 *dump.txt
 *.v.bak
 *.rpt
+*.log
 
 
 # ModelSim

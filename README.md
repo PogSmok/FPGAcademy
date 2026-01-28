@@ -4,6 +4,15 @@ This repository contains my personal solutions to laboratory exercises from **FP
 
 ---
 
+## Covered Topics
+
+- **RTL Design & Digital Logic:** Verilog design, finite state machines (FSMs), synchronous logic, combinational & sequential circuits  
+- **Timing & Constraints:** Clock domains, timing-aware design, FPGA resource planning  
+- **FPGA Implementation:** Pin assignments, board programming, DE1-SoC experience  
+- **Verification & Simulation:** Functional simulation, testbenches, ModelSim workflow  
+- **Embedded & Processor Interfaces:** Nios® V processor, memory-mapped I/O, interrupts, DMA  
+- **Applied Projects:** Timers, counters, arithmetic units, simple & enhanced processor designs, character device drivers, graphics and signal acquisition  
+
 ## Included Materials
 
 Each laboratory folder contains:
@@ -20,7 +29,7 @@ All rights to the original materials belong to FPGAcademy.
 ## Platform
 
 All laboratories are implemented and tested using:
-- **Language**: Verilog
+- **HDL**: Verilog
 - **Toolchain**: Quartus Prime Lite Edition 20.1
 - **Simulation Environment**: ModelSim 2020.1
 - **Board**: DE1-SoC (Revision H)

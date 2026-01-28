@@ -11,7 +11,7 @@ This repository contains my personal solutions to laboratory exercises from **FP
 - **FPGA Implementation:** Pin assignments, board programming, DE1-SoC experience  
 - **Verification & Simulation:** Functional simulation, testbenches, ModelSim workflow  
 - **Embedded & Processor Interfaces:** Nios® V processor, memory-mapped I/O, interrupts, DMA  
-- **Applied Projects:** Timers, counters, arithmetic units, simple & enhanced processor designs, character device drivers, graphics and signal acquisition  
+- **Projects:** Timers, counters, arithmetic units, simple & enhanced processor designs, character device drivers, graphics and signal acquisition  
 
 ## Included Materials
 

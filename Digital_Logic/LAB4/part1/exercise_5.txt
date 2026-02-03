@@ -1,0 +1,7 @@
+Since T flip-flops do not exist natively in FPGA libraries, they are implemented
+using D flip-flops with two 2-to-1 multiplexers controlling the D input. 
+
+The first multiplexer handles the Enable signal, toggling the flip-flop when Enable is high. 
+
+The second multiplexer handles the synchronous Clear signal, forcing the flip-flop to 0 when
+Clear is active (low), with Clear having priority over Enable.

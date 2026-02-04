@@ -1,0 +1,8 @@
+The T flip-flop implementation remains the same,
+except that an adder is added in front of the two
+multiplexers to perform the "Q <= Q + 1" operation.
+Analysis of logic utilization shows that during mapping
+and fitting, the adder is not fully optimized away.
+As a result, doubling the counter size does not simply
+double the number of LEs; the 16-bit counter uses 30 LEs
+instead of 26 (13*2).

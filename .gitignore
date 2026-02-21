@@ -10,7 +10,19 @@ simulation/
 *.v.bak
 *.rpt
 *.log
-
+*.asm.rpt
+*.cdf
+*.done
+*.fit.*
+*.flow.*
+*.jdi
+*.map.*
+*.pin
+*.sdc
+*.sld
+*.sof
+*.sta.*
+*.qdf
 
 # ModelSim
 work/

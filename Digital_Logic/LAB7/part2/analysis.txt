@@ -1,0 +1,4 @@
+When State Machine Processing is set to User-Encoded, Quartus uses the state encodings specified in the Verilog code,
+which match the binary codes given in Table 3. When the setting is changed to One-Hot, Quartus automatically assigns its
+own one-hot encodings, which differ from those in the table, even though their size is different too (9 bits vs 4 bits)!
+The FSM behavior and LED outputs remain the same even though the internal state encoding differs.

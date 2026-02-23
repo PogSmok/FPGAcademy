@@ -1,0 +1,9 @@
+Absolutely. Instead of using two separate shift registers, the design can use a single 4-bit shift register
+and simply check its contents against the patterns 4'b0000 (indicating that `w` has been low for four consecutive
+clock cycles) or 4'b1111 (indicating that `w` has been high for four consecutive clock cycles).
+
+A minor drawback of this approach is that an asynchronous reset initializes the shift register to
+4'b0000, which would also satisfy the detection condition for four zeros.
+However, this does not invalidate the design: outputs during reset are not considered valid detections,
+and the purpose of the asynchronous reset is to bring the system into a known starting state, which it successfully does.
+After reset is released, the detector functions exactly as intended.

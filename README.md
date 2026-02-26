@@ -6,6 +6,8 @@ This repository contains my personal solutions to laboratory exercises from **FP
 
 # Covered Topics
 
+*Click a category name below to expand the related laboratories and topics.*
+
 <details>
 <summary><h2><b>Digital Logic</b></h2></summary>
  

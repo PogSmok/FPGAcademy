@@ -4,14 +4,26 @@ This repository contains my personal solutions to laboratory exercises from **FP
 
 ---
 
-## Covered Topics
+# Covered Topics
 
-- **RTL Design & Digital Logic:** Verilog design, finite state machines (FSMs), synchronous logic, combinational & sequential circuits  
-- **Timing & Constraints:** Clock domains, timing-aware design, FPGA resource planning  
-- **FPGA Implementation:** Pin assignments, board programming, DE1-SoC experience  
-- **Verification & Simulation:** Functional simulation, testbenches, ModelSim workflow  
-- **Embedded & Processor Interfaces:** Nios® V processor, memory-mapped I/O, interrupts, DMA  
-- **Projects:** Timers, counters, arithmetic units, simple & enhanced processor designs, character device drivers, graphics and signal acquisition  
+<details>
+<summary><h2><b>Digital Logic</b></h2></summary>
+ 
+| Lab Folder | Lab Description |
+| :--- | :--- |
+| <b>[LAB 1](./Digital_Logic/LAB1/)</b>	| Switches, Lights, and Multiplexers |
+| <b>[LAB 2](./Digital_Logic/LAB2/)</b>	| Numbers and Displays |
+| <b>[LAB 3](./Digital_Logic/LAB3/)</b>	| Latches, Flip-flops and Registers |
+| <b>[LAB 4](./Digital_Logic/LAB4/)</b>	| Counters |
+| <b>[LAB 5](./Digital_Logic/LAB5/)</b>	| Timers and Real-Time Clocks |
+| <b>[LAB 6](./Digital_Logic/LAB6/)</b>	| Adders, Subtracters, and Multipliers |
+| <b>[LAB 7](./Digital_Logic/LAB7/)</b>	| Finite State Machines |
+| <b>[LAB 8](./Digital_Logic/LAB8/)</b>	| Memory Blocks |
+| <b>[LAB 9](./Digital_Logic/LAB9/)</b>	| A Simple Processor |
+| <b>[LAB 10](./Digital_Logic/LAB10/)</b> | An Enhanced Processor |
+| <b>[LAB 11](./Digital_Logic/LAB11/)</b> | A More Enhanced Processor |
+
+</details>
 
 ## Included Materials
 

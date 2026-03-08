@@ -28,3 +28,8 @@ simulation/
 work/
 
 *.wlf
+
+# NIOS
+*.ini
+*.elf
+*.s.o

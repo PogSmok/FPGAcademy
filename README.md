@@ -66,6 +66,7 @@ The tools used for each part of the course are as follows:
   - **Simulation Environment:** ModelSim 2020.1  
 
 - **Computer Organization:**  
+  - **CPUlator**: https://cpulator.01xz.net/?sys=rv32-de1soc
   - **Compiler:** Ashling RiscFree IDE for FPGAs 24.1  
   - **FPGA Programmer:** Quartus Prime Programmer and Tools 24.1  
   

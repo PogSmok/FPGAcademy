@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<internal_error>
+	<sub_system>ERR</sub_system>
+	<callstack>	0x7ffec3d932dc: CCL_ERR + 0x132dc (?name@ERR_UNWINDER_TESTER@@SAPEBDXZ + 0x22c)
+	0x7ffe467ac8d0: dni_dms + 0x13c8d0 (?should_import_from_qdb@DMS_HANDLE_UTILS@@YA_NVDMS_HANDLE@@@Z + 0x6a0)
+	0x7ffe468602f1: dni_dms + 0x1f02f1 (?should_import_from_qdb@DMS_HANDLE_UTILS@@YA_NVDMS_HANDLE@@@Z + 0xb40c1)
+	0x7ffed21b107f: VCRUNTIME140_1 + 0x107f
+	0x7ffed21b26f4: VCRUNTIME140_1 + 0x26f4 (__NLG_Return2 + 0x15a4)
+	0x7ffedad317a5: ntdll + 0xa17a5 (RtlCaptureContext2 + 0x4a5)
+	0x7ffe467ac9ad: dni_dms + 0x13c9ad (?should_import_from_qdb@DMS_HANDLE_UTILS@@YA_NVDMS_HANDLE@@@Z + 0x77d)
+	0x7ffedaca9a1c: ntdll + 0x19a1c (RtlActivateActivationContextUnsafeFast + 0x11c)
+	0x7ffedacfc2f6: ntdll + 0x6c2f6 (LdrGetProcedureAddressEx + 0x2d6)
+	0x7ffedacfc089: ntdll + 0x6c089 (LdrGetProcedureAddressEx + 0x69)
+	0x7ffedacfc10f: ntdll + 0x6c10f (LdrGetProcedureAddressEx + 0xef)
+	0x7ffedacfc10f: ntdll + 0x6c10f (LdrGetProcedureAddressEx + 0xef)
+	0x7ffedacfc10f: ntdll + 0x6c10f (LdrGetProcedureAddressEx + 0xef)
+	0x7ffedacfc10f: ntdll + 0x6c10f (LdrGetProcedureAddressEx + 0xef)
+	0x7ffedad6407c: ntdll + 0xd407c (LdrInitShimEngineDynamic + 0x3a8c)
+	0x7ffedad04dea: ntdll + 0x74dea (LdrInitializeThunk + 0x1da)
+	0x7ffedad04c72: ntdll + 0x74c72 (LdrInitializeThunk + 0x62)
+	0x7ffedad04c1d: ntdll + 0x74c1d (LdrInitializeThunk + 0xd)
+</callstack>
+	<error>*** Fatal Error: Program termination requested</error>
+	<date>Tue Mar 10 12:09:53 2026
+</date>
+	<version>Version 24.1.0 Build 115 03/21/2024 SC Pro Edition</version>
+</internal_error>

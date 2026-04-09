@@ -33,3 +33,4 @@ work/
 *.ini
 *.elf
 *.s.o
+*.c.o

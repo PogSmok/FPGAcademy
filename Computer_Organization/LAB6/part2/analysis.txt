@@ -1,0 +1,7 @@
+The program using printf() produces a significantly larger .elf file because it links in parts of the C standard library required for formatted output.
+These include string formatting, integer conversion, and I/O routines.
+In contrast, writing directly to a memory-mapped register requires only a few machine instructions and does not require linking additional libraries,
+resulting in a much smaller executable.
+
+printf()      .elf size: 405kB
+memory-mapped .elf size: 102kB

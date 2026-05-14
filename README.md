@@ -88,7 +88,7 @@ The tools used for each part of the course are as follows:
   - **Compiler:** Ashling RiscFree IDE for FPGAs 24.1  
   - **FPGA Programmer:** Quartus Prime Programmer and Tools 24.1
 
-- ** Embedded Systems:**
+- **Embedded Systems:**
   - **Linux Distribution:** DE1-SoC-UP
 
 ---

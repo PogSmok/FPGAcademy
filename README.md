@@ -43,6 +43,24 @@ This repository contains my personal solutions to laboratory exercises from **FP
 
 </details>
 
+<details>
+<summary><h2><b>Embedded Systems</b></h2></summary>
+ 
+| Lab Folder | Lab Description |
+| :--- | :--- |
+| <b>[LAB 1](./Embedded_Systems/LAB1/)</b>	| Getting Started with Linux |
+| <b>[LAB 2](./Embedded_Systems/LAB2/)</b>	| Developing Linux Programs that Communicate with the FPGA |
+| <b>[LAB 3](./Embedded_Systems/LAB3/)</b>	| Character Device Drivers |
+| <b>[LAB 4](./Embedded_Systems/LAB4/)</b>	| Using Character Device Drivers |
+| <b>[LAB 5](./Embedded_Systems/LAB5/)</b>	| Using ASCII Graphics for Animation |
+| <b>[LAB 6](./Embedded_Systems/LAB6/)</b>	| Introduction to Graphics and Animation |
+| <b>[LAB 7](./Embedded_Systems/LAB7/)</b>	| Using the ADXL345 Accelerometer |
+| <b>[LAB 8](./Embedded_Systems/LAB8/)</b>	| Audio and an Introduction to Multithreaded Applications |
+| <b>[LAB 9](./Embedded_Systems/LAB9/)</b>	| Using the ADC to Implement a Simple Oscilloscope |
+| <b>[LAB 10](./Embedded_Systems/LAB10/)</b>	| Image Processing |
+
+</details>
+
 ## Included Materials
 
 Each laboratory folder contains:
@@ -66,10 +84,13 @@ The tools used for each part of the course are as follows:
   - **Simulation Environment:** ModelSim 2020.1  
 
 - **Computer Organization:**  
-  - **CPUlator**: https://cpulator.01xz.net/
+  - **CPUlator:** https://cpulator.01xz.net/
   - **Compiler:** Ashling RiscFree IDE for FPGAs 24.1  
-  - **FPGA Programmer:** Quartus Prime Programmer and Tools 24.1  
-  
+  - **FPGA Programmer:** Quartus Prime Programmer and Tools 24.1
+
+- ** Embedded Systems:**
+  - **Linux Distribution:** DE1-SoC-UP
+
 ---
 
 ## License

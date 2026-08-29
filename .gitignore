@@ -36,6 +36,7 @@ work/
 *.c.o
 
 # Executable
+*
 !*.*
 !*/
 !Makefile

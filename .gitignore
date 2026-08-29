@@ -34,3 +34,10 @@ work/
 *.elf
 *.s.o
 *.c.o
+
+# Executable
+!*.*
+!*/
+!Makefile
+!makefile
+!GNUmakefile

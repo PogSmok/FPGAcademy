@@ -37,8 +37,18 @@ work/
 
 # Executable
 *
-!*.*
 !*/
+!*.*
 !Makefile
-!makefile
-!GNUmakefile
+
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+*.cmd
+.*.cmd
+.tmp_versions/
